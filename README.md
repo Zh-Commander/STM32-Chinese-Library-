@@ -1,7 +1,9 @@
 # 说明
 使用大语言模型翻译STM32 HAL库 标准库，并人工校对
-翻译模型：GLM5
+
+文本模型：glm-5
 切片大小：10KB-20KB
+切片数量：1979
 
 希望这能帮助你快速学习和开发STM32
 
@@ -26,12 +28,3 @@
 - STM32H7: https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html
 
 ## 标准外设库
-
-请通过 ST 官方搜索入口获取历史版本资源：
-
-- https://www.st.com/content/st_com/en/search.html
-
-建议搜索关键词：
-
-- STM32F10x Standard Peripheral Library
-- STM32F4xx DSP and Standard Peripherals Library
