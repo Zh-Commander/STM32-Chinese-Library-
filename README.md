@@ -1,32 +1,14 @@
 # 说明
-
 使用大语言模型翻译STM32 HAL库 标准库中注释和补充必要注释，并人工校对
 
-
-
-翻译模型：GLM5
-
-
-
-切片大小：10KB-20KB
-
-
-
-更新：
-
-- 2026.5.5 HAL F4 G4 H7 1979
-
-- 2026.5.10 HAL F0 F3 F7 1315
-
-
+- 文本模型：glm-5
+- 切片大小：10KB-20KB
+- 切片数量：
+- - HAL-F4 G4 H7:1979
 
 好用给个Star，没用骂个Issue
 
-
-
 希望这能帮助你快速学习和开发STM32
-
-
 
 不定期更新
 
@@ -51,12 +33,3 @@
 - STM32H7: https://www.st.com/en/microcontrollers-microprocessors/stm32h7-series.html
 
 ## 标准外设库
-
-请通过 ST 官方搜索入口获取历史版本资源：
-
-- https://www.st.com/content/st_com/en/search.html
-
-建议搜索关键词：
-
-- STM32F10x Standard Peripheral Library
-- STM32F4xx DSP and Standard Peripherals Library
